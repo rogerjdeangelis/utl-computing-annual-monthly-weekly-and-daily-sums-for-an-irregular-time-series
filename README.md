@@ -1,6 +1,6 @@
 # utl-computing-annual-monthly-weekly-and-daily-sums-for-an-irregular-time-series
 Computing Annual, Monthly, Weekly and Daily Sums for an irregular time series
-    %let pgm=utl-computing-annual-monthly-weekly-and-daily-sums-for-an-irregular-time-series;
+     %let pgm=utl-computing-annual-monthly-weekly-and-daily-sums-for-an-irregular-time-series;
 
     Note there are many missing months and days
 
@@ -11,6 +11,8 @@ Computing Annual, Monthly, Weekly and Daily Sums for an irregular time series
     github
     https://tinyurl.com/32t22x3s
     https://github.com/rogerjdeangelis/utl-computing-annual-monthly-weekly-and-daily-sums-for-an-irregular-time-series
+
+    related repos on end
 
     /*               _     _
      _ __  _ __ ___ | |__ | | ___ _ __ ___
@@ -218,6 +220,53 @@ Computing Annual, Monthly, Weekly and Daily Sums for an irregular time series
     /*                                                                                                                        */
     /**************************************************************************************************************************/
 
+    /*
+     _ __ ___ _ __   ___  ___
+    | `__/ _ \ `_ \ / _ \/ __|
+    | | |  __/ |_) | (_) \__ \
+    |_|  \___| .__/ \___/|___/
+             |_|
+    */
+
+
+    --------------------------------------------------------------------------------------------------------------------------------------
+    https://github.com/rogerjdeangelis/utl-calculating-a-weighted-or-moving-sum-for-a-window-of-size-three
+    https://github.com/rogerjdeangelis/utl-calculating-three-year-rolling-moving-weekly-and-annual-daily-standard-deviation
+    https://github.com/rogerjdeangelis/utl-forecast-the-next-four-months-using-a-moving-average-time-series
+    https://github.com/rogerjdeangelis/utl-forecast-the-next-seven-days-using-a--moving-average-model-in-R
+    https://github.com/rogerjdeangelis/utl-moving-ten-month-average-by-group
+    https://github.com/rogerjdeangelis/utl-parallell-processing-a-rolling-moving-three-month-ninety-day-skewness-for-five-thousand-variabl
+    https://github.com/rogerjdeangelis/utl-rolling-moving-sum-and-count-over-3-day-window-by-id
+    https://github.com/rogerjdeangelis/utl-tumbling-goups-of-ten-temperatures-similar-like-rolling-and-moving-means-wps-r-python
+    https://github.com/rogerjdeangelis/utl-weight-loss-over-thirty-day-rolling-moving-windows-using-weekly-values
+    https://github.com/rogerjdeangelis/utl-weighted-moving-sum-for-several-variables
+    https://github.com/rogerjdeangelis/utl_R_moving_average_six_variables_by_group
+    https://github.com/rogerjdeangelis/utl_calculate-moving-rolling-average-with-gaps-in-years
+    https://github.com/rogerjdeangelis/utl_moving_average_of_centered_timeseries_or_calculate_a_modified_version_of_moving_averages
+    https://github.com/rogerjdeangelis/utl-Rolling-four-month-median-by-group
+    https://github.com/rogerjdeangelis/utl-betas-for-rolling-regressions
+    https://github.com/rogerjdeangelis/utl-calculating-three-year-rolling-moving-weekly-and-annual-daily-standard-deviation
+    https://github.com/rogerjdeangelis/utl-compute-the-partial-and-total-rolling-sums-for-window-of-size-of-three
+    https://github.com/rogerjdeangelis/utl-controlling-the-order-of-transposed-variables-using-interleave-set
+    https://github.com/rogerjdeangelis/utl-creating-rolling-sets-of-monthly-tables
+    https://github.com/rogerjdeangelis/utl-how-to-compare-price-observations-in-rolling-time-intervals
+    https://github.com/rogerjdeangelis/utl-parallell-processing-a-rolling-moving-three-month-ninety-day-skewness-for-five-thousand-variable
+    https://github.com/rogerjdeangelis/utl-rolling-moving-sum-and-count-over-3-day-window-by-id
+    https://github.com/rogerjdeangelis/utl-rolling-sum_of-six-months-by-group
+    https://github.com/rogerjdeangelis/utl-timeseries-rolling-three-day-averages-by-county
+    https://github.com/rogerjdeangelis/utl-tumbling-goups-of-ten-temperatures-similar-like-rolling-and-moving-means-wps-r-python
+    https://github.com/rogerjdeangelis/utl-weight-loss-over-thirty-day-rolling-moving-windows-using-weekly-values
+    https://github.com/rogerjdeangelis/utl_calculate-moving-rolling-average-with-gaps-in-years
+    https://github.com/rogerjdeangelis/utl_calculating_rolling_3_month_skewness_of_prices_by_stock
+    https://github.com/rogerjdeangelis/utl_calculating_the_rolling_product_using_wps_sas_and_r
+    https://github.com/rogerjdeangelis/utl_comparison_sas_v_r_increment_a_rolling_sum_with_the_first_value_for_each_id
+    https://github.com/rogerjdeangelis/utl_count_distinct_ids_in_rolling_overlapping_date_ranges
+    https://github.com/rogerjdeangelis/utl_excluding_rolling_regressions_with_one_on_more_missing_values_in_the_window
+    https://github.com/rogerjdeangelis/utl_nice_hash_example_of_rolling_count_of_dates_plus-minus_2_days_of_current_date
+    https://github.com/rogerjdeangelis/utl_rolling_means_by-quarter_semiannual_and_yearly
+    https://github.com/rogerjdeangelis/utl_standard_deviation_of_90_day_rolling_standard_deviations
+
+
     /*              _
       ___ _ __   __| |
      / _ \ `_ \ / _` |
@@ -225,4 +274,7 @@ Computing Annual, Monthly, Weekly and Daily Sums for an irregular time series
      \___|_| |_|\__,_|
 
     */
+
+
+
 
